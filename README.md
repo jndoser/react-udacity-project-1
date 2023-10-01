@@ -1,4 +1,4 @@
-# React Udacity Project 1 - MyReads
+# React Udacity Project 1 - MyReads - LONG NGUYEN HOANG
 
 ## INSTRUCTION TO RUN THIS PROJECT
 - Run npm install to install all dependencies
